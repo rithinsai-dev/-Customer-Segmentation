@@ -22,6 +22,6 @@ This markdown file outlines a clustering project using Python's scikit-learn lib
 ## Results:
 
 ### Pairplot of Clustering Results
-![Pairplot](./cluster pairpoints.png)
+![Pairplot](cluster pairpoints.png)
 
 
